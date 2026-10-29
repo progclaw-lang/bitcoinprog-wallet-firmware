@@ -14,3 +14,11 @@ dd7934bfab41579e718ff1ee5c0e42c361cbec3c149cc549f2aecd5f14384757  firmware/1.0.4
 e9ec68ea38572d6900b476df24cd5045e3a6b3fa48d1f0121523241ad20cb255  firmware/1.0.46/firmada/bootloader.bin
 7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f  firmware/1.0.46/firmada/ota_data.bin
 3b7a37b49a3e9d44278374c3088221dfcd6cc3b22677c387d5047f33dab1f37d  firmware/1.0.46/firmada/partition-table.bin
+8dfd5ca0a417bf0706b90ff78d2f4466fac78d8e303d0d075c7f5e3d1f8dc53f  firmware/1.0.47/estandar/bitcoinprog-wallet-1.0.47.bin
+e76bac01b88d3fc53a2b68e0719de9484982cbfcc751e16c1633cd75e2fe4348  firmware/1.0.47/estandar/bootloader.bin
+7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f  firmware/1.0.47/estandar/ota_data.bin
+3b7a37b49a3e9d44278374c3088221dfcd6cc3b22677c387d5047f33dab1f37d  firmware/1.0.47/estandar/partition-table.bin
+77a950e3e110efcfaba3c23ade2a1b7fc11d0a79e946420bd43db4342943185c  firmware/1.0.47/firmada/bitcoinprog-wallet-1.0.47.bin
+e9ec68ea38572d6900b476df24cd5045e3a6b3fa48d1f0121523241ad20cb255  firmware/1.0.47/firmada/bootloader.bin
+7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f  firmware/1.0.47/firmada/ota_data.bin
+3b7a37b49a3e9d44278374c3088221dfcd6cc3b22677c387d5047f33dab1f37d  firmware/1.0.47/firmada/partition-table.bin

@@ -5,8 +5,10 @@ Official firmware files for the **BitcoinProg Wallet** hardware wallet.
 
 | Versión | Carpeta | Edición |
 |---|---|---|
-| **1.0.46** | `firmware/1.0.46/estandar/` | Estándar · Standard |
-| **1.0.46** | `firmware/1.0.46/firmada/` | Firmada con Secure Boot V2 · Signed (Secure Boot V2) |
+| **1.0.47** | `firmware/1.0.47/estandar/` | Estándar · Standard |
+| **1.0.47** | `firmware/1.0.47/firmada/` | Firmada con Secure Boot V2 · Signed (Secure Boot V2) |
+| 1.0.46 | `firmware/1.0.46/estandar/` | Estándar · Standard |
+| 1.0.46 | `firmware/1.0.46/firmada/` | Firmada con Secure Boot V2 · Signed (Secure Boot V2) |
 | 1.0.45 | `firmware/1.0.45/estandar/` | Estándar · Standard |
 | 1.0.45 | `firmware/1.0.45/firmada/` | Firmada con Secure Boot V2 · Signed (Secure Boot V2) |
 
